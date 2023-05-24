@@ -1,0 +1,79 @@
+{
+  "dialoges": [
+    {
+      "index": 0,
+      "name": "Me",
+      "sentences": [ "Huh what is this place?", "It looks like some sort of facility." ]
+    },
+    {
+      "index": 1,
+      "name": "Me",
+      "sentences": [ "Whoa what is happening?", "It looks like the alarm is going towards the door." ]
+    },
+    {
+      "index": 2,
+      "name": "Me",
+      "sentences": [ "It looks like this is some kind of layout for the basement.", "Maybe I could use this to figure out where I need to go." ]
+    },
+    {
+      "index": 3,
+      "name": "Me",
+      "sentences": [ "I should probably take this with me." ]
+    },
+    {
+      "index": 4,
+      "name": "Me",
+      "sentences": [ "Everything is fixed now. I should go upstairs." ]
+    },
+    {
+      "index": 5,
+      "name": "Me",
+      "sentences": [ "It looks like something is blinking on that big screen." ]
+    },
+    {
+      "index": 6,
+      "name": "Me",
+      "sentences": [ "This key card on the ground could be useful later." ]
+    },
+    {
+      "index": 7,
+      "name": "Me",
+      "sentences": [ "The screen changed again, I should check it out." ]
+    },
+    {
+      "index": 8,
+      "name": "Me",
+      "sentences": [ "A squid swam into that room with a key card. Maybe I can catch it on a dead end." ]
+    },
+    {
+      "index": 9,
+      "name": "Me",
+      "sentences": [ "This room doesn't have a dead end, I should try to get it out." ]
+    },
+    {
+      "index": 10,
+      "name": "Me",
+      "sentences": [ "I can't catch it in this room either. I should get him out." ]
+    },
+    {
+      "index": 11,
+      "name": "Me",
+      "sentences": [ "This room probably has a dead end where I can catch him." ]
+    },
+    {
+      "index": 12,
+      "name": "Me",
+      "sentences": [ "I can probably use this key card somewhere.", "I should check the screen, maybe something changed." ]
+    },
+    {
+      "index": 13,
+      "name": "Me",
+      "sentences": [ "It sounds like the monster is swimming away.", "I could try to get back up to the surface using the emergency route." ]
+    },
+    {
+      "index": 14,
+      "name": "Hint",
+      "sentences": [ "Use the scroll wheel to switch between items in your inventory" ]
+    }
+  ]
+}
